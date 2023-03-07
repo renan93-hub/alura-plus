@@ -1,2 +1,2 @@
 # alura-plus
-Um menu de streaming fictício feito durante um curso da Alura 
+Um menu da alura fictício feito durante um curso da Alura 
